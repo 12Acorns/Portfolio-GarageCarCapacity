@@ -1,0 +1,14 @@
+D:\GitHub\Portfolio\GarageCarCapacity\bin\Debug\net6.0\GarageCarCapacity.exe
+D:\GitHub\Portfolio\GarageCarCapacity\bin\Debug\net6.0\GarageCarCapacity.deps.json
+D:\GitHub\Portfolio\GarageCarCapacity\bin\Debug\net6.0\GarageCarCapacity.runtimeconfig.json
+D:\GitHub\Portfolio\GarageCarCapacity\bin\Debug\net6.0\GarageCarCapacity.dll
+D:\GitHub\Portfolio\GarageCarCapacity\bin\Debug\net6.0\GarageCarCapacity.pdb
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.AssemblyInfoInputs.cache
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.AssemblyInfo.cs
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.csproj.CoreCompileInputs.cache
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.dll
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\refint\GarageCarCapacity.dll
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.pdb
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\GarageCarCapacity.genruntimeconfig.cache
+D:\GitHub\Portfolio\GarageCarCapacity\obj\Debug\net6.0\ref\GarageCarCapacity.dll
